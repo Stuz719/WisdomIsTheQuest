@@ -1,7 +1,7 @@
 # WisdomIsTheQuest
 Top-down exploration and quiz game, where the player gains knowledge towards wisdom
 
-The idea is that this will a Zelda/Apshai-esque type of game, where the player will travel between different zones to meet a range of NPCs who will ask questions... and the player will respond from a multiple-choice interface
+The idea is that this will a Zelda/Rogue/Apshai-esque type of game, at least aesthetically, where the player will travel between different zones to meet a range of NPCs who will ask questions... and the player will respond from a multiple-choice interface
 
 These interactions will gradually open up additional answers, towards the player eventually being able to answer the Big Question at the end
 
